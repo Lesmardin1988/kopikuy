@@ -44,14 +44,28 @@
             "nama": "Kopi Jahe Hangat",
             "size": "100 Gram",
             "harga": "500.000",
-            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+            "link": "https://www.google.com/search?q=kopi+jahe+hangat&tbm=shop"
         },
         {
             "foto": "https://ds393qgzrxwzn.cloudfront.net/resize/m720x480/cat1/img/images/0/ShruvPIa2G.jpg",
             "nama": "Kopi Jahe Sidomuncul",
             "size": "250 Gram",
             "harga": "550.000",
-            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+            "link": "https://www.google.com/search?q=kopi+jahe+sidomuncul&tbm=shop"
+        },
+        {
+            "foto": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/01/20/1047047316.jpg",
+            "nama": "Kopi Jahe Asli",
+            "size": "200 Gram",
+            "harga": "350.000",
+            "link": "https://www.google.com/search?q=kopi+jahe+asli&tbm=shop"
+        },
+        {
+            "foto": "https://mcsangatta.com/images/virtuemart/product/KOPI%20JAHE%20MADU.jpg",
+            "nama": "Kopi Jahe Madu",
+            "size": "200 Gram",
+            "harga": "450.000",
+            "link": "https://www.google.com/search?q=kopi+jahe+madu&tbm=shop"
         }
     ]
     
